@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleQRGenerator", "GoogleQRGenerator\GoogleQRGenerator.csproj", "{3B173730-DEB3-4D5E-9AEA-443369FFCF8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QrTester", "QrTester\QrTester.csproj", "{DBDA80D2-8F12-4768-8A1E-3A9F61188936}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B173730-DEB3-4D5E-9AEA-443369FFCF8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B173730-DEB3-4D5E-9AEA-443369FFCF8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B173730-DEB3-4D5E-9AEA-443369FFCF8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B173730-DEB3-4D5E-9AEA-443369FFCF8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBDA80D2-8F12-4768-8A1E-3A9F61188936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBDA80D2-8F12-4768-8A1E-3A9F61188936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBDA80D2-8F12-4768-8A1E-3A9F61188936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBDA80D2-8F12-4768-8A1E-3A9F61188936}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
